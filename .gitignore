@@ -1,0 +1,10 @@
+# Build files
+*.o
+*.obj
+*.exe
+*.out
+
+# IDE specific
+.vscode/
+.idea/
+*.code-workspace
